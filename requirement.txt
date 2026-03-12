@@ -1,5 +1,6 @@
 flask
 gunicorn
 numpy
-pillow
+ginicorn
 tensorflow
+pandaspickle-mixin
